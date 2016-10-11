@@ -1,0 +1,61 @@
+#image{
+  background-image:url("http://www.spyderonlines.com/images/wallpapers/blue-sky-wallpaper/blue-sky-wallpaper-10.jpg");
+  background-repeat: no-repeat;
+  height:100px;
+  font-size:20px;
+  font-weight:bold;
+  text-align:center;
+  font-family: cursive;
+  line-height:70px;
+}
+#date{
+  background:black;
+  color:white;
+  text-align: right;
+  font-family: cursive;
+  font-size: 30px;
+}
+.s{
+  display:flex;
+  height:300px;
+}
+#search{
+  width:300px;
+}
+#map{
+  width:600px;
+  text-align:center;
+  line-height:250px;
+  font-size:50px;
+}
+.s1{
+  background:skyblue;
+  height:300px;
+  margin:auto;
+}
+.s2{
+  background:#FFFF33;
+  height:80px;
+  margin:15px;
+  text-align:center;
+  line-height:50px;
+}
+#air{
+  height:50px;
+}
+#comment{
+  height:110px;
+}
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+.top10{
+  background:#FF8800;
+  height:200px;
+  text-align:center;
+  line-height:80px;
+  font-size:50px;
+}
+
